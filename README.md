@@ -1,5 +1,5 @@
 # New-Wheels-SQL
-For this New Wheels Project, SQL queries were used to determine KPIs for the New Wheels vehicle company.
+For this New Wheels Project, SQL queries were used to determine KPIs for the New Wheels vehicle company. Queries were tested in MySQL and SQLite Playground. 
 
 **Problem Statement**
 
